@@ -1,1 +1,1 @@
-Powershell file to use the Windows Tools Local Security Policy in enabling scheduled tasks and services index and event log view.
+Powershell files to use the Windows Tools Local Security Policy in enabling scheduled tasks, running services and events log view.
